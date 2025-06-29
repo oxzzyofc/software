@@ -1,7 +1,7 @@
 {
   "show_message": true,
   "title": "Update Found OXZZY V1.00",
-  "content_url": "https://raw.githubusercontent.com/oxzzyofc/software/refs/heads/main/insta-update.html",
+  "content_url": "https://oxzzyofc.github.io/software/insta-update.html",
   "positive_btn": "FOLLOW",
   "link": "https://instagram.com/ox.zzy",
   "cancelable": true
